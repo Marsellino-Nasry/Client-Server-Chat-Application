@@ -78,5 +78,3 @@ Create a chat application where two computers can communicate with each other ov
 
 # Summary
 This project demonstrates the fundamental concepts of socket programming and network communication. By setting up a server-client architecture, you can create a simple yet powerful offline chat application that functions over a LAN or hotspot, making it ideal for environments without internet access.
-
-Feel free to reach out if you need more details or help with specific parts of the implementation!
